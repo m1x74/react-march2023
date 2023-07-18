@@ -1,0 +1,16 @@
+.post{
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+    border: black 1px solid;
+}
+button{
+    width: 50px;
+    height: 30px;
+    background: white;
+    cursor: pointer;
+
+}
+button:hover{
+    background: red;
+}
